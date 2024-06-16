@@ -6,7 +6,7 @@ Este é um script em Bash para facilitar a instalação de vários programas no 
 
 1. Clone este repositório ou copie os arquivos para o seu sistema.
     ```bash
-    git clone https://github.com/seu-usuario/linux-install-script.git
+    git clone https://github.com/levi985/linux-install-script.git
     cd linux-install-script
     ```
 
